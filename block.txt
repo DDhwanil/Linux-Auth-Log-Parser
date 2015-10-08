@@ -1,0 +1,56 @@
+
+
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2007 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct  6 17:41:29 2015 UTC
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netblock	Attacks	Name	Country	email
+43.229.53.0	43.229.53.255	24	851	Japan Inet	JP	admin@v6nic.net
+218.65.30.0	218.65.30.255	24	576	CHINANET jiangxi province network	CN	abuse@public1.nc.jx.cn
+119.10.8.0	119.10.8.255	24	560			
+185.25.150.0	185.25.150.255	24	508			
+78.155.172.0	78.155.172.255	24	507	TEOLTAB TEO LT AB Autonomous System	US	reserved
+46.172.71.0	46.172.71.255	24	423			
+188.138.9.0	188.138.9.255	24	421			
+199.203.59.0	199.203.59.255	24	268	Elron Technologies (NETBLK-ELRON-C-BLK1)	US	abuse@netvision.net.il
+199.168.141.0	199.168.141.255	24	258			
+222.186.34.0	222.186.34.255	24	256			
+119.164.254.0	119.164.254.255	24	246	CHINA169-BACKBONE CNCGROUP China169 Backbone	CN	abuse@cnc-noc.net
+222.186.56.0	222.186.56.255	24	221			
+137.226.113.0	137.226.113.255	24	209	Aachen University of Technology (NET-ACHSES)	DE	schellbach@rz.rwth-aachen.de
+222.186.21.0	222.186.21.255	24	189			
+222.186.61.0	222.186.61.255	24	182			
+83.147.118.0	83.147.118.255	24	178			
+117.21.176.0	117.21.176.255	24	159	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse@fjdcb.fz.fj.cn
+216.243.31.0	216.243.31.255	24	135	NECLEC, LLC (NETBLK-IPT)	US	dhoyt@hoyt.com
+188.209.51.0	188.209.51.255	24	133			
+39.185.171.0	39.185.171.255	24	123			
+#
+#
+# END
+#
+#  finished list generation: Tue Oct  6 17:41:29 2015 UTC
